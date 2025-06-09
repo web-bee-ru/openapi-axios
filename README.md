@@ -135,4 +135,5 @@ Special thanks to
 
 - [@IRaccoonI](https://github.com/IRaccoonI) (contributor)
 - [@Denwa799](https://github.com/Denwa799) (contributor)
-- [@simplesmiler](https://github.com/simplesmiler) (creator of [taxios](https://github.com/simplesmiler/taxios))
+- [@simplesmiler](https://github.com/simplesmiler) (creator of
+  [taxios](https://github.com/simplesmiler/taxios))
